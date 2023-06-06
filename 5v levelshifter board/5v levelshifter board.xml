@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Evan\Documents\GitHub\Mojo-V3-dev-boards\5v levelshifter board\5v levelshifter board.kicad_sch</source>
+    <date>6/6/2023 4:44:56 AM</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>5v levelshifter board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d36ee016-cb4e-48ea-848c-24dc89a9b30b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c6826b4-adb4-4d57-b644-3e11314b9785</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb06af30-0a36-4e33-a292-08cc846a8801</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9773941b-756b-45ef-826c-bda0095550a8</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0aed3d10-07fb-4aa0-afa1-df7e1b126e08</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec19de7b-d23b-491e-97d4-1e76c21380cf</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec79f2d1-5b7d-4600-9dfe-82f537be4641</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5207e19-24e0-41e0-badb-f3e15cdd2e37</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5c8e5be-641d-4bb8-93ae-59f350c93cc2</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>033b33c7-40a1-4ff6-a630-e77288ea9413</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f1dc2a1-8643-4e0b-8b96-5b9b9dd7d82a</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c24d70f0-1f3d-445f-94cc-690d4eb6e186</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8efa988c-cb88-44d8-a563-4fd11f3aea82</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>592ee13d-600d-4b6c-aa34-12fef0a22186</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>MAX3002EUP+T</value>
+      <footprint>Evan's parts:SOP65P640X110-20N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX3002EUP+T</field>
+        <field name="Mouser Part Number">700-MAX3002EUPT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D</field>
+      </fields>
+      <libsource lib="Evan's parts" part="MAX3002EUP+T" description="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="700-MAX3002EUPT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX3002EUP+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f796aab8-7f74-491a-9ab8-e8311bea7103</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>MAX3002EUP+T</value>
+      <footprint>Evan's parts:SOP65P640X110-20N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX3002EUP+T</field>
+        <field name="Mouser Part Number">700-MAX3002EUPT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D</field>
+      </fields>
+      <libsource lib="Evan's parts" part="MAX3002EUP+T" description="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="700-MAX3002EUPT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX3002EUP+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dde1ed78-0735-44b8-875b-59354d110dff</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>MAX3002EUP+T</value>
+      <footprint>Evan's parts:SOP65P640X110-20N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX3002EUP+T</field>
+        <field name="Mouser Part Number">700-MAX3002EUPT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D</field>
+      </fields>
+      <libsource lib="Evan's parts" part="MAX3002EUP+T" description="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="700-MAX3002EUPT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX3002EUP+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c0e16eb-0965-4205-b8c4-430d0fd18132</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>MAX3002EUP+T</value>
+      <footprint>Evan's parts:SOP65P640X110-20N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX3002EUP+T</field>
+        <field name="Mouser Part Number">700-MAX3002EUPT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D</field>
+      </fields>
+      <libsource lib="Evan's parts" part="MAX3002EUP+T" description="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="700-MAX3002EUPT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX3002EUP+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08adfcdc-0ce9-427f-ba42-7dfa50b9a103</tstamps>
+    </comp>
+    <comp ref="IC5">
+      <value>MAX3002EUP+T</value>
+      <footprint>Evan's parts:SOP65P640X110-20N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX3002EUP+T</field>
+        <field name="Mouser Part Number">700-MAX3002EUPT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D</field>
+      </fields>
+      <libsource lib="Evan's parts" part="MAX3002EUP+T" description="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="700-MAX3002EUPT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX3002EUP+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b4a2793-d970-4845-8afe-9d15986545eb</tstamps>
+    </comp>
+    <comp ref="IC6">
+      <value>MAX3002EUP+T</value>
+      <footprint>Evan's parts:SOP65P640X110-20N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX3002EUP+T</field>
+        <field name="Mouser Part Number">700-MAX3002EUPT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D</field>
+      </fields>
+      <libsource lib="Evan's parts" part="MAX3002EUP+T" description="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="700-MAX3002EUPT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX3002EUP+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48fe39ea-190c-4411-8df6-9ec3129c310e</tstamps>
+    </comp>
+    <comp ref="IC7">
+      <value>MAX3002EUP+T</value>
+      <footprint>Evan's parts:SOP65P640X110-20N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX3002EUP+T</field>
+        <field name="Mouser Part Number">700-MAX3002EUPT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D</field>
+      </fields>
+      <libsource lib="Evan's parts" part="MAX3002EUP+T" description="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="700-MAX3002EUPT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX3002EUP+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a74253f-5c66-4060-856d-48970427ad07</tstamps>
+    </comp>
+    <comp ref="IC8">
+      <value>MAX3002EUP+T</value>
+      <footprint>Evan's parts:SOP65P640X110-20N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX3002EUP+T</field>
+        <field name="Mouser Part Number">700-MAX3002EUPT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D</field>
+      </fields>
+      <libsource lib="Evan's parts" part="MAX3002EUP+T" description="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="700-MAX3002EUPT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="MAX3002EUP+T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d02a1ed7-0f33-4ecf-b02b-8acfc071947e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>5v coupling</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa268c03-5ec9-4e83-ae46-e61800e4c993</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>JTAG</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9142d66-f58b-466d-8f42-31c55a2139af</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>JTAG voltage</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>add6d018-3e61-4102-a051-60553c295062</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>0-7</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf991986-bcea-465f-ade7-8ef38b4b3833</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>8-15</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddfb6c15-a676-4ecc-abde-d51ed6928972</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>16-23</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b741999-39c3-4e47-837f-80fc8572faa1</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>24-31</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f39b622-f4cd-42a3-9681-5d67f619a651</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>32-39</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ce0d533-5542-4834-a1e9-f37087a79f2d</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>40-47</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90c79661-daa2-45f6-b73b-7ca3f6f1ca67</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>48-55</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>456b3823-d529-46c9-baa6-fba3db6b857f</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>56-63</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca7c8c79-fa87-466d-959f-8f937e7a854c</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>reference voltage</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49cdbd30-5e32-47b1-bef5-7c34a23691ff</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>ena_0</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51e584ec-4ace-402e-9e97-24b7bc0a9f47</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>ena_1</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13c1dbb8-b786-4c3d-8907-8b163ed220d8</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>ena_2</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43424270-9329-4b5c-9f6d-22fe8b80910f</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>ena_3</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>534c2f50-c9ee-4d48-b851-60c7f440958f</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>ena_4</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a74b6a46-ca8f-4010-9df8-2359f207d2a2</tstamps>
+    </comp>
+    <comp ref="JP6">
+      <value>ena_5</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b9e7f32-29eb-486d-ae94-6797b5b7419d</tstamps>
+    </comp>
+    <comp ref="JP7">
+      <value>ena_6</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83ca8334-529d-4e5c-8640-757091d5b595</tstamps>
+    </comp>
+    <comp ref="JP8">
+      <value>ena_7</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc2b4f18-c94f-4c0a-a25a-7079aa570bd6</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>MOJO</value>
+      <footprint>mojov3:Mojo</footprint>
+      <libsource lib="mojo" part="MOJO" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="5v levelshifter board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7c8e7f3-aa89-4273-ba24-59353f4040d4 a9f69411-a05e-4d96-a147-3c568fb2450c 87b00ad4-c155-4286-95ef-67c7e1e4e61d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Evan's parts" part="MAX3002EUP+T">
+      <description>Translation - Voltage Levels +1.2V to +5.5V, +/-15kV ESD-Protected, 0.1 uA, 35Mbps, 8-Channel Level Translators</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MAX3002EUP+T</field>
+        <field name="Footprint">SOP65P640X110-20N</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/MAX3000E-MAX3012.pdf</field>
+        <field name="Height">1.1</field>
+        <field name="Mouser Part Number">700-MAX3002EUPT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX3002EUP%2bT?qs=LHmEVA8xxfb1agk1nNLrqA%3D%3D</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">MAX3002EUP+T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O_VL1" type="passive"/>
+        <pin num="2" name="VL" type="passive"/>
+        <pin num="3" name="I/O_VL2" type="passive"/>
+        <pin num="4" name="I/O_VL3" type="passive"/>
+        <pin num="5" name="I/O_VL4" type="passive"/>
+        <pin num="6" name="I/O_VL5" type="passive"/>
+        <pin num="7" name="I/O_VL6" type="passive"/>
+        <pin num="8" name="I/O_VL7" type="passive"/>
+        <pin num="9" name="I/O_VL8" type="passive"/>
+        <pin num="10" name="EN" type="passive"/>
+        <pin num="11" name="GND" type="passive"/>
+        <pin num="12" name="I/O_VCC8" type="passive"/>
+        <pin num="13" name="I/O_VCC7" type="passive"/>
+        <pin num="14" name="I/O_VCC6" type="passive"/>
+        <pin num="15" name="I/O_VCC5" type="passive"/>
+        <pin num="16" name="I/O_VCC4" type="passive"/>
+        <pin num="17" name="I/O_VCC3" type="passive"/>
+        <pin num="18" name="I/O_VCC2" type="passive"/>
+        <pin num="19" name="VCC" type="passive"/>
+        <pin num="20" name="I/O_VCC1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_3_Bridged12">
+      <description>Jumper, 3-pole, pins 1+2 closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*3Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_3_Bridged12</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mojo" part="MOJO">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">mojo_MOJO</field>
+      </fields>
+      <pins>
+        <pin num="+V" name="+V" type="input"/>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+        <pin num="5" name="5" type="input"/>
+        <pin num="6" name="6" type="input"/>
+        <pin num="7" name="7" type="input"/>
+        <pin num="8" name="8" type="input"/>
+        <pin num="9" name="9" type="input"/>
+        <pin num="10" name="10" type="input"/>
+        <pin num="11" name="11" type="input"/>
+        <pin num="12" name="12" type="input"/>
+        <pin num="14" name="14" type="input"/>
+        <pin num="15" name="15" type="input"/>
+        <pin num="16" name="16" type="input"/>
+        <pin num="17" name="17" type="input"/>
+        <pin num="21" name="21" type="input"/>
+        <pin num="22" name="22" type="input"/>
+        <pin num="23" name="23" type="input"/>
+        <pin num="24" name="24" type="input"/>
+        <pin num="26" name="26" type="input"/>
+        <pin num="27" name="27" type="input"/>
+        <pin num="29" name="29" type="input"/>
+        <pin num="30" name="30" type="input"/>
+        <pin num="32" name="32" type="input"/>
+        <pin num="33" name="33" type="input"/>
+        <pin num="34" name="34" type="input"/>
+        <pin num="35" name="35" type="input"/>
+        <pin num="40" name="40" type="input"/>
+        <pin num="41" name="41" type="input"/>
+        <pin num="50" name="50" type="input"/>
+        <pin num="51" name="51" type="input"/>
+        <pin num="57" name="57" type="input"/>
+        <pin num="58" name="58" type="input"/>
+        <pin num="66" name="66" type="input"/>
+        <pin num="67" name="67" type="input"/>
+        <pin num="74" name="74" type="input"/>
+        <pin num="75" name="75" type="input"/>
+        <pin num="78" name="78" type="input"/>
+        <pin num="79" name="79" type="input"/>
+        <pin num="80" name="80" type="input"/>
+        <pin num="81" name="81" type="input"/>
+        <pin num="82" name="82" type="input"/>
+        <pin num="83" name="83" type="input"/>
+        <pin num="84" name="84" type="input"/>
+        <pin num="85" name="85" type="input"/>
+        <pin num="87" name="87" type="input"/>
+        <pin num="88" name="88" type="input"/>
+        <pin num="92" name="92" type="input"/>
+        <pin num="93" name="93" type="input"/>
+        <pin num="94" name="94" type="input"/>
+        <pin num="95" name="95" type="input"/>
+        <pin num="97" name="97" type="input"/>
+        <pin num="98" name="98" type="input"/>
+        <pin num="99" name="99" type="input"/>
+        <pin num="100" name="100" type="input"/>
+        <pin num="101" name="101" type="input"/>
+        <pin num="102" name="102" type="input"/>
+        <pin num="104" name="104" type="input"/>
+        <pin num="105" name="105" type="input"/>
+        <pin num="111" name="111" type="input"/>
+        <pin num="112" name="112" type="input"/>
+        <pin num="114" name="114" type="input"/>
+        <pin num="115" name="115" type="input"/>
+        <pin num="116" name="116" type="input"/>
+        <pin num="117" name="117" type="input"/>
+        <pin num="118" name="118" type="input"/>
+        <pin num="119" name="119" type="input"/>
+        <pin num="120" name="120" type="input"/>
+        <pin num="121" name="121" type="input"/>
+        <pin num="123" name="123" type="input"/>
+        <pin num="124" name="124" type="input"/>
+        <pin num="126" name="126" type="input"/>
+        <pin num="127" name="127" type="input"/>
+        <pin num="131" name="131" type="input"/>
+        <pin num="132" name="132" type="input"/>
+        <pin num="133" name="133" type="input"/>
+        <pin num="134" name="134" type="input"/>
+        <pin num="137" name="137" type="input"/>
+        <pin num="138" name="138" type="input"/>
+        <pin num="139" name="139" type="input"/>
+        <pin num="140" name="140" type="input"/>
+        <pin num="141" name="141" type="input"/>
+        <pin num="142" name="142" type="input"/>
+        <pin num="143" name="143" type="input"/>
+        <pin num="144" name="144" type="input"/>
+        <pin num="A0" name="A0" type="input"/>
+        <pin num="A1" name="A1" type="input"/>
+        <pin num="A4" name="A4" type="input"/>
+        <pin num="A5" name="A5" type="input"/>
+        <pin num="A6" name="A6" type="input"/>
+        <pin num="A7" name="A7" type="input"/>
+        <pin num="A8" name="A8" type="input"/>
+        <pin num="A9" name="A9" type="input"/>
+        <pin num="AREF" name="AREF" type="input"/>
+        <pin num="DONE" name="DONE" type="input"/>
+        <pin num="GND" name="GND" type="input"/>
+        <pin num="RAW" name="RAW" type="input"/>
+        <pin num="RST" name="RST" type="input"/>
+        <pin num="SUS" name="SUS" type="input"/>
+        <pin num="TCK" name="TCK" type="input"/>
+        <pin num="TDI" name="TDI" type="input"/>
+        <pin num="TDO" name="TDO" type="input"/>
+        <pin num="TMS" name="TMS" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Evan's parts">
+      <uri>C:/Users/Evan/Documents/KiCad/6.0/symbols/Evan's misc parts.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="VL" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="VL" pintype="passive"/>
+      <node ref="IC3" pin="2" pinfunction="VL" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="VL" pintype="passive"/>
+      <node ref="IC5" pin="2" pinfunction="VL" pintype="passive"/>
+      <node ref="IC6" pin="2" pinfunction="VL" pintype="passive"/>
+      <node ref="IC7" pin="2" pinfunction="VL" pintype="passive"/>
+      <node ref="IC8" pin="2" pinfunction="VL" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="P1" pin="+V" pinfunction="+V" pintype="input"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P1" pin="RAW" pinfunction="RAW" pintype="input"/>
+    </net>
+    <net code="3" name="3v_0">
+      <node ref="IC1" pin="1" pinfunction="I/O_VL1" pintype="passive"/>
+      <node ref="P1" pin="79" pinfunction="79" pintype="input"/>
+    </net>
+    <net code="4" name="3v_1">
+      <node ref="IC1" pin="3" pinfunction="I/O_VL2" pintype="passive"/>
+      <node ref="P1" pin="78" pinfunction="78" pintype="input"/>
+    </net>
+    <net code="5" name="3v_2">
+      <node ref="IC1" pin="4" pinfunction="I/O_VL3" pintype="passive"/>
+      <node ref="P1" pin="75" pinfunction="75" pintype="input"/>
+    </net>
+    <net code="6" name="3v_3">
+      <node ref="IC1" pin="5" pinfunction="I/O_VL4" pintype="passive"/>
+      <node ref="P1" pin="74" pinfunction="74" pintype="input"/>
+    </net>
+    <net code="7" name="3v_4">
+      <node ref="IC1" pin="6" pinfunction="I/O_VL5" pintype="passive"/>
+      <node ref="P1" pin="67" pinfunction="67" pintype="input"/>
+    </net>
+    <net code="8" name="3v_5">
+      <node ref="IC1" pin="7" pinfunction="I/O_VL6" pintype="passive"/>
+      <node ref="P1" pin="66" pinfunction="66" pintype="input"/>
+    </net>
+    <net code="9" name="3v_6">
+      <node ref="IC1" pin="8" pinfunction="I/O_VL7" pintype="passive"/>
+      <node ref="P1" pin="58" pinfunction="58" pintype="input"/>
+    </net>
+    <net code="10" name="3v_7">
+      <node ref="IC1" pin="9" pinfunction="I/O_VL8" pintype="passive"/>
+      <node ref="P1" pin="57" pinfunction="57" pintype="input"/>
+    </net>
+    <net code="11" name="3v_8">
+      <node ref="IC2" pin="1" pinfunction="I/O_VL1" pintype="passive"/>
+      <node ref="P1" pin="33" pinfunction="33" pintype="input"/>
+    </net>
+    <net code="12" name="3v_9">
+      <node ref="IC2" pin="3" pinfunction="I/O_VL2" pintype="passive"/>
+      <node ref="P1" pin="32" pinfunction="32" pintype="input"/>
+    </net>
+    <net code="13" name="3v_10">
+      <node ref="IC2" pin="4" pinfunction="I/O_VL3" pintype="passive"/>
+      <node ref="P1" pin="35" pinfunction="35" pintype="input"/>
+    </net>
+    <net code="14" name="3v_11">
+      <node ref="IC2" pin="5" pinfunction="I/O_VL4" pintype="passive"/>
+      <node ref="P1" pin="34" pinfunction="34" pintype="input"/>
+    </net>
+    <net code="15" name="3v_12">
+      <node ref="IC2" pin="6" pinfunction="I/O_VL5" pintype="passive"/>
+      <node ref="P1" pin="41" pinfunction="41" pintype="input"/>
+    </net>
+    <net code="16" name="3v_13">
+      <node ref="IC2" pin="7" pinfunction="I/O_VL6" pintype="passive"/>
+      <node ref="P1" pin="40" pinfunction="40" pintype="input"/>
+    </net>
+    <net code="17" name="3v_14">
+      <node ref="IC2" pin="8" pinfunction="I/O_VL7" pintype="passive"/>
+      <node ref="P1" pin="51" pinfunction="51" pintype="input"/>
+    </net>
+    <net code="18" name="3v_15">
+      <node ref="IC2" pin="9" pinfunction="I/O_VL8" pintype="passive"/>
+      <node ref="P1" pin="50" pinfunction="50" pintype="input"/>
+    </net>
+    <net code="19" name="3v_16">
+      <node ref="IC3" pin="1" pinfunction="I/O_VL1" pintype="passive"/>
+      <node ref="P1" pin="80" pinfunction="80" pintype="input"/>
+    </net>
+    <net code="20" name="3v_17">
+      <node ref="IC3" pin="3" pinfunction="I/O_VL2" pintype="passive"/>
+      <node ref="P1" pin="81" pinfunction="81" pintype="input"/>
+    </net>
+    <net code="21" name="3v_18">
+      <node ref="IC3" pin="4" pinfunction="I/O_VL3" pintype="passive"/>
+      <node ref="P1" pin="82" pinfunction="82" pintype="input"/>
+    </net>
+    <net code="22" name="3v_19">
+      <node ref="IC3" pin="5" pinfunction="I/O_VL4" pintype="passive"/>
+      <node ref="P1" pin="83" pinfunction="83" pintype="input"/>
+    </net>
+    <net code="23" name="3v_20">
+      <node ref="IC3" pin="6" pinfunction="I/O_VL5" pintype="passive"/>
+      <node ref="P1" pin="84" pinfunction="84" pintype="input"/>
+    </net>
+    <net code="24" name="3v_21">
+      <node ref="IC3" pin="7" pinfunction="I/O_VL6" pintype="passive"/>
+      <node ref="P1" pin="85" pinfunction="85" pintype="input"/>
+    </net>
+    <net code="25" name="3v_22">
+      <node ref="IC3" pin="8" pinfunction="I/O_VL7" pintype="passive"/>
+      <node ref="P1" pin="87" pinfunction="87" pintype="input"/>
+    </net>
+    <net code="26" name="3v_23">
+      <node ref="IC3" pin="9" pinfunction="I/O_VL8" pintype="passive"/>
+      <node ref="P1" pin="88" pinfunction="88" pintype="input"/>
+    </net>
+    <net code="27" name="3v_24">
+      <node ref="IC4" pin="1" pinfunction="I/O_VL1" pintype="passive"/>
+      <node ref="P1" pin="99" pinfunction="99" pintype="input"/>
+    </net>
+    <net code="28" name="3v_25">
+      <node ref="IC4" pin="3" pinfunction="I/O_VL2" pintype="passive"/>
+      <node ref="P1" pin="100" pinfunction="100" pintype="input"/>
+    </net>
+    <net code="29" name="3v_26">
+      <node ref="IC4" pin="4" pinfunction="I/O_VL3" pintype="passive"/>
+      <node ref="P1" pin="97" pinfunction="97" pintype="input"/>
+    </net>
+    <net code="30" name="3v_27">
+      <node ref="IC4" pin="5" pinfunction="I/O_VL4" pintype="passive"/>
+      <node ref="P1" pin="98" pinfunction="98" pintype="input"/>
+    </net>
+    <net code="31" name="3v_28">
+      <node ref="IC4" pin="6" pinfunction="I/O_VL5" pintype="passive"/>
+      <node ref="P1" pin="94" pinfunction="94" pintype="input"/>
+    </net>
+    <net code="32" name="3v_29">
+      <node ref="IC4" pin="7" pinfunction="I/O_VL6" pintype="passive"/>
+      <node ref="P1" pin="95" pinfunction="95" pintype="input"/>
+    </net>
+    <net code="33" name="3v_30">
+      <node ref="IC4" pin="8" pinfunction="I/O_VL7" pintype="passive"/>
+      <node ref="P1" pin="92" pinfunction="92" pintype="input"/>
+    </net>
+    <net code="34" name="3v_31">
+      <node ref="IC4" pin="9" pinfunction="I/O_VL8" pintype="passive"/>
+      <node ref="P1" pin="93" pinfunction="93" pintype="input"/>
+    </net>
+    <net code="35" name="3v_32">
+      <node ref="IC5" pin="1" pinfunction="I/O_VL1" pintype="passive"/>
+      <node ref="P1" pin="114" pinfunction="114" pintype="input"/>
+    </net>
+    <net code="36" name="3v_33">
+      <node ref="IC5" pin="3" pinfunction="I/O_VL2" pintype="passive"/>
+      <node ref="P1" pin="115" pinfunction="115" pintype="input"/>
+    </net>
+    <net code="37" name="3v_34">
+      <node ref="IC5" pin="4" pinfunction="I/O_VL3" pintype="passive"/>
+      <node ref="P1" pin="111" pinfunction="111" pintype="input"/>
+    </net>
+    <net code="38" name="3v_35">
+      <node ref="IC5" pin="5" pinfunction="I/O_VL4" pintype="passive"/>
+      <node ref="P1" pin="112" pinfunction="112" pintype="input"/>
+    </net>
+    <net code="39" name="3v_36">
+      <node ref="IC5" pin="6" pinfunction="I/O_VL5" pintype="passive"/>
+      <node ref="P1" pin="104" pinfunction="104" pintype="input"/>
+    </net>
+    <net code="40" name="3v_37">
+      <node ref="IC5" pin="7" pinfunction="I/O_VL6" pintype="passive"/>
+      <node ref="P1" pin="105" pinfunction="105" pintype="input"/>
+    </net>
+    <net code="41" name="3v_38">
+      <node ref="IC5" pin="8" pinfunction="I/O_VL7" pintype="passive"/>
+      <node ref="P1" pin="101" pinfunction="101" pintype="input"/>
+    </net>
+    <net code="42" name="3v_39">
+      <node ref="IC5" pin="9" pinfunction="I/O_VL8" pintype="passive"/>
+      <node ref="P1" pin="102" pinfunction="102" pintype="input"/>
+    </net>
+    <net code="43" name="3v_40">
+      <node ref="IC6" pin="1" pinfunction="I/O_VL1" pintype="passive"/>
+      <node ref="P1" pin="138" pinfunction="138" pintype="input"/>
+    </net>
+    <net code="44" name="3v_41">
+      <node ref="IC6" pin="3" pinfunction="I/O_VL2" pintype="passive"/>
+      <node ref="P1" pin="137" pinfunction="137" pintype="input"/>
+    </net>
+    <net code="45" name="3v_42">
+      <node ref="IC6" pin="4" pinfunction="I/O_VL3" pintype="passive"/>
+      <node ref="P1" pin="140" pinfunction="140" pintype="input"/>
+    </net>
+    <net code="46" name="3v_43">
+      <node ref="IC6" pin="5" pinfunction="I/O_VL4" pintype="passive"/>
+      <node ref="P1" pin="139" pinfunction="139" pintype="input"/>
+    </net>
+    <net code="47" name="3v_44">
+      <node ref="IC6" pin="6" pinfunction="I/O_VL5" pintype="passive"/>
+      <node ref="P1" pin="142" pinfunction="142" pintype="input"/>
+    </net>
+    <net code="48" name="3v_45">
+      <node ref="IC6" pin="7" pinfunction="I/O_VL6" pintype="passive"/>
+      <node ref="P1" pin="141" pinfunction="141" pintype="input"/>
+    </net>
+    <net code="49" name="3v_46">
+      <node ref="IC6" pin="8" pinfunction="I/O_VL7" pintype="passive"/>
+      <node ref="P1" pin="144" pinfunction="144" pintype="input"/>
+    </net>
+    <net code="50" name="3v_47">
+      <node ref="IC6" pin="9" pinfunction="I/O_VL8" pintype="passive"/>
+      <node ref="P1" pin="143" pinfunction="143" pintype="input"/>
+    </net>
+    <net code="51" name="3v_48">
+      <node ref="IC7" pin="1" pinfunction="I/O_VL1" pintype="passive"/>
+      <node ref="P1" pin="2" pinfunction="2" pintype="input"/>
+    </net>
+    <net code="52" name="3v_49">
+      <node ref="IC7" pin="3" pinfunction="I/O_VL2" pintype="passive"/>
+      <node ref="P1" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="53" name="3v_50">
+      <node ref="IC7" pin="4" pinfunction="I/O_VL3" pintype="passive"/>
+      <node ref="P1" pin="6" pinfunction="6" pintype="input"/>
+    </net>
+    <net code="54" name="3v_51">
+      <node ref="IC7" pin="5" pinfunction="I/O_VL4" pintype="passive"/>
+      <node ref="P1" pin="5" pinfunction="5" pintype="input"/>
+    </net>
+    <net code="55" name="3v_52">
+      <node ref="IC7" pin="6" pinfunction="I/O_VL5" pintype="passive"/>
+      <node ref="P1" pin="8" pinfunction="8" pintype="input"/>
+    </net>
+    <net code="56" name="3v_53">
+      <node ref="IC7" pin="7" pinfunction="I/O_VL6" pintype="passive"/>
+      <node ref="P1" pin="7" pinfunction="7" pintype="input"/>
+    </net>
+    <net code="57" name="3v_54">
+      <node ref="IC7" pin="8" pinfunction="I/O_VL7" pintype="passive"/>
+      <node ref="P1" pin="10" pinfunction="10" pintype="input"/>
+    </net>
+    <net code="58" name="3v_55">
+      <node ref="IC7" pin="9" pinfunction="I/O_VL8" pintype="passive"/>
+      <node ref="P1" pin="9" pinfunction="9" pintype="input"/>
+    </net>
+    <net code="59" name="3v_56">
+      <node ref="IC8" pin="1" pinfunction="I/O_VL1" pintype="passive"/>
+      <node ref="P1" pin="12" pinfunction="12" pintype="input"/>
+    </net>
+    <net code="60" name="3v_57">
+      <node ref="IC8" pin="3" pinfunction="I/O_VL2" pintype="passive"/>
+      <node ref="P1" pin="11" pinfunction="11" pintype="input"/>
+    </net>
+    <net code="61" name="3v_58">
+      <node ref="IC8" pin="4" pinfunction="I/O_VL3" pintype="passive"/>
+      <node ref="P1" pin="15" pinfunction="15" pintype="input"/>
+    </net>
+    <net code="62" name="3v_59">
+      <node ref="IC8" pin="5" pinfunction="I/O_VL4" pintype="passive"/>
+      <node ref="P1" pin="14" pinfunction="14" pintype="input"/>
+    </net>
+    <net code="63" name="3v_60">
+      <node ref="IC8" pin="6" pinfunction="I/O_VL5" pintype="passive"/>
+      <node ref="P1" pin="17" pinfunction="17" pintype="input"/>
+    </net>
+    <net code="64" name="3v_61">
+      <node ref="IC8" pin="7" pinfunction="I/O_VL6" pintype="passive"/>
+      <node ref="P1" pin="16" pinfunction="16" pintype="input"/>
+    </net>
+    <net code="65" name="3v_62">
+      <node ref="IC8" pin="8" pinfunction="I/O_VL7" pintype="passive"/>
+      <node ref="P1" pin="22" pinfunction="22" pintype="input"/>
+    </net>
+    <net code="66" name="3v_63">
+      <node ref="IC8" pin="9" pinfunction="I/O_VL8" pintype="passive"/>
+      <node ref="P1" pin="21" pinfunction="21" pintype="input"/>
+    </net>
+    <net code="67" name="5v_0">
+      <node ref="IC1" pin="20" pinfunction="I/O_VCC1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="68" name="5v_1">
+      <node ref="IC1" pin="18" pinfunction="I/O_VCC2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="69" name="5v_2">
+      <node ref="IC1" pin="17" pinfunction="I/O_VCC3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="70" name="5v_3">
+      <node ref="IC1" pin="16" pinfunction="I/O_VCC4" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="71" name="5v_4">
+      <node ref="IC1" pin="15" pinfunction="I/O_VCC5" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="72" name="5v_5">
+      <node ref="IC1" pin="14" pinfunction="I/O_VCC6" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="73" name="5v_6">
+      <node ref="IC1" pin="13" pinfunction="I/O_VCC7" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="74" name="5v_7">
+      <node ref="IC1" pin="12" pinfunction="I/O_VCC8" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="75" name="5v_8">
+      <node ref="IC2" pin="20" pinfunction="I/O_VCC1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="76" name="5v_9">
+      <node ref="IC2" pin="18" pinfunction="I/O_VCC2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="77" name="5v_10">
+      <node ref="IC2" pin="17" pinfunction="I/O_VCC3" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="78" name="5v_11">
+      <node ref="IC2" pin="16" pinfunction="I/O_VCC4" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="79" name="5v_12">
+      <node ref="IC2" pin="15" pinfunction="I/O_VCC5" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="80" name="5v_13">
+      <node ref="IC2" pin="14" pinfunction="I/O_VCC6" pintype="passive"/>
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="81" name="5v_14">
+      <node ref="IC2" pin="13" pinfunction="I/O_VCC7" pintype="passive"/>
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="82" name="5v_15">
+      <node ref="IC2" pin="12" pinfunction="I/O_VCC8" pintype="passive"/>
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="83" name="5v_16">
+      <node ref="IC3" pin="20" pinfunction="I/O_VCC1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="84" name="5v_17">
+      <node ref="IC3" pin="18" pinfunction="I/O_VCC2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="85" name="5v_18">
+      <node ref="IC3" pin="17" pinfunction="I/O_VCC3" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="86" name="5v_19">
+      <node ref="IC3" pin="16" pinfunction="I/O_VCC4" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="87" name="5v_20">
+      <node ref="IC3" pin="15" pinfunction="I/O_VCC5" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="88" name="5v_21">
+      <node ref="IC3" pin="14" pinfunction="I/O_VCC6" pintype="passive"/>
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="89" name="5v_22">
+      <node ref="IC3" pin="13" pinfunction="I/O_VCC7" pintype="passive"/>
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="90" name="5v_23">
+      <node ref="IC3" pin="12" pinfunction="I/O_VCC8" pintype="passive"/>
+      <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="91" name="5v_24">
+      <node ref="IC4" pin="20" pinfunction="I/O_VCC1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="92" name="5v_25">
+      <node ref="IC4" pin="18" pinfunction="I/O_VCC2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="93" name="5v_26">
+      <node ref="IC4" pin="17" pinfunction="I/O_VCC3" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="94" name="5v_27">
+      <node ref="IC4" pin="16" pinfunction="I/O_VCC4" pintype="passive"/>
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="95" name="5v_28">
+      <node ref="IC4" pin="15" pinfunction="I/O_VCC5" pintype="passive"/>
+      <node ref="J7" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="96" name="5v_29">
+      <node ref="IC4" pin="14" pinfunction="I/O_VCC6" pintype="passive"/>
+      <node ref="J7" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="97" name="5v_30">
+      <node ref="IC4" pin="13" pinfunction="I/O_VCC7" pintype="passive"/>
+      <node ref="J7" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="98" name="5v_31">
+      <node ref="IC4" pin="12" pinfunction="I/O_VCC8" pintype="passive"/>
+      <node ref="J7" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="99" name="5v_32">
+      <node ref="IC5" pin="20" pinfunction="I/O_VCC1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="100" name="5v_33">
+      <node ref="IC5" pin="18" pinfunction="I/O_VCC2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="101" name="5v_34">
+      <node ref="IC5" pin="17" pinfunction="I/O_VCC3" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="102" name="5v_35">
+      <node ref="IC5" pin="16" pinfunction="I/O_VCC4" pintype="passive"/>
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="103" name="5v_36">
+      <node ref="IC5" pin="15" pinfunction="I/O_VCC5" pintype="passive"/>
+      <node ref="J8" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="104" name="5v_37">
+      <node ref="IC5" pin="14" pinfunction="I/O_VCC6" pintype="passive"/>
+      <node ref="J8" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="105" name="5v_38">
+      <node ref="IC5" pin="13" pinfunction="I/O_VCC7" pintype="passive"/>
+      <node ref="J8" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="106" name="5v_39">
+      <node ref="IC5" pin="12" pinfunction="I/O_VCC8" pintype="passive"/>
+      <node ref="J8" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="107" name="5v_40">
+      <node ref="IC6" pin="20" pinfunction="I/O_VCC1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="108" name="5v_41">
+      <node ref="IC6" pin="18" pinfunction="I/O_VCC2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="109" name="5v_42">
+      <node ref="IC6" pin="17" pinfunction="I/O_VCC3" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="110" name="5v_43">
+      <node ref="IC6" pin="16" pinfunction="I/O_VCC4" pintype="passive"/>
+      <node ref="J9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="111" name="5v_44">
+      <node ref="IC6" pin="15" pinfunction="I/O_VCC5" pintype="passive"/>
+      <node ref="J9" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="112" name="5v_45">
+      <node ref="IC6" pin="14" pinfunction="I/O_VCC6" pintype="passive"/>
+      <node ref="J9" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="113" name="5v_46">
+      <node ref="IC6" pin="13" pinfunction="I/O_VCC7" pintype="passive"/>
+      <node ref="J9" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="114" name="5v_47">
+      <node ref="IC6" pin="12" pinfunction="I/O_VCC8" pintype="passive"/>
+      <node ref="J9" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="115" name="5v_48">
+      <node ref="IC7" pin="20" pinfunction="I/O_VCC1" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="116" name="5v_49">
+      <node ref="IC7" pin="18" pinfunction="I/O_VCC2" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="117" name="5v_50">
+      <node ref="IC7" pin="17" pinfunction="I/O_VCC3" pintype="passive"/>
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="118" name="5v_51">
+      <node ref="IC7" pin="16" pinfunction="I/O_VCC4" pintype="passive"/>
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="119" name="5v_52">
+      <node ref="IC7" pin="15" pinfunction="I/O_VCC5" pintype="passive"/>
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="120" name="5v_53">
+      <node ref="IC7" pin="14" pinfunction="I/O_VCC6" pintype="passive"/>
+      <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="121" name="5v_54">
+      <node ref="IC7" pin="13" pinfunction="I/O_VCC7" pintype="passive"/>
+      <node ref="J10" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="122" name="5v_55">
+      <node ref="IC7" pin="12" pinfunction="I/O_VCC8" pintype="passive"/>
+      <node ref="J10" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="123" name="5v_56">
+      <node ref="IC8" pin="20" pinfunction="I/O_VCC1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="124" name="5v_57">
+      <node ref="IC8" pin="18" pinfunction="I/O_VCC2" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="125" name="5v_58">
+      <node ref="IC8" pin="17" pinfunction="I/O_VCC3" pintype="passive"/>
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="126" name="5v_59">
+      <node ref="IC8" pin="16" pinfunction="I/O_VCC4" pintype="passive"/>
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="127" name="5v_60">
+      <node ref="IC8" pin="15" pinfunction="I/O_VCC5" pintype="passive"/>
+      <node ref="J11" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="128" name="5v_61">
+      <node ref="IC8" pin="14" pinfunction="I/O_VCC6" pintype="passive"/>
+      <node ref="J11" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="129" name="5v_62">
+      <node ref="IC8" pin="13" pinfunction="I/O_VCC7" pintype="passive"/>
+      <node ref="J11" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="130" name="5v_63">
+      <node ref="IC8" pin="12" pinfunction="I/O_VCC8" pintype="passive"/>
+      <node ref="J11" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="131" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="IC3" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="IC4" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="IC5" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="IC6" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="IC7" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="IC8" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP4" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP5" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP6" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP7" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP8" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="P1" pin="GND" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="132" name="Net-(JP1-A)">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="29" pinfunction="29" pintype="input"/>
+    </net>
+    <net code="133" name="Net-(JP2-A)">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="27" pinfunction="27" pintype="input"/>
+    </net>
+    <net code="134" name="Net-(JP3-A)">
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="30" pinfunction="30" pintype="input"/>
+    </net>
+    <net code="135" name="Net-(JP4-A)">
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="116" pinfunction="116" pintype="input"/>
+    </net>
+    <net code="136" name="Net-(JP5-A)">
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="117" pinfunction="117" pintype="input"/>
+    </net>
+    <net code="137" name="Net-(JP6-A)">
+      <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="24" pinfunction="24" pintype="input"/>
+    </net>
+    <net code="138" name="Net-(JP7-A)">
+      <node ref="JP7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="26" pinfunction="26" pintype="input"/>
+    </net>
+    <net code="139" name="Net-(JP8-A)">
+      <node ref="JP8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="23" pinfunction="23" pintype="input"/>
+    </net>
+    <net code="140" name="RST">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="P1" pin="RST" pinfunction="RST" pintype="input"/>
+    </net>
+    <net code="141" name="TCK">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P1" pin="TCK" pinfunction="TCK" pintype="input"/>
+    </net>
+    <net code="142" name="TDI">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="P1" pin="TDI" pinfunction="TDI" pintype="input"/>
+    </net>
+    <net code="143" name="TDO">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="P1" pin="TDO" pinfunction="TDO" pintype="input"/>
+    </net>
+    <net code="144" name="TMS">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="P1" pin="TMS" pinfunction="TMS" pintype="input"/>
+    </net>
+    <net code="145" name="Vref">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="19" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC2" pin="19" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC3" pin="19" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC4" pin="19" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC5" pin="19" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC6" pin="19" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC7" pin="19" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC8" pin="19" pinfunction="VCC" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="146" name="ena_0">
+      <node ref="IC1" pin="10" pinfunction="EN" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="147" name="ena_1">
+      <node ref="IC2" pin="10" pinfunction="EN" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="148" name="ena_2">
+      <node ref="IC3" pin="10" pinfunction="EN" pintype="passive"/>
+      <node ref="JP3" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="149" name="ena_3">
+      <node ref="IC4" pin="10" pinfunction="EN" pintype="passive"/>
+      <node ref="JP4" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="150" name="ena_4">
+      <node ref="IC5" pin="10" pinfunction="EN" pintype="passive"/>
+      <node ref="JP5" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="151" name="ena_5">
+      <node ref="IC6" pin="10" pinfunction="EN" pintype="passive"/>
+      <node ref="JP6" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="152" name="ena_6">
+      <node ref="IC7" pin="10" pinfunction="EN" pintype="passive"/>
+      <node ref="JP7" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="153" name="ena_7">
+      <node ref="IC8" pin="10" pinfunction="EN" pintype="passive"/>
+      <node ref="JP8" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="154" name="unconnected-(J2-Pin_2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="155" name="unconnected-(J2-Pin_7-Pad7)">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="156" name="unconnected-(J2-Pin_8-Pad8)">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="157" name="unconnected-(P1-Pad118)">
+      <node ref="P1" pin="118" pinfunction="118" pintype="input"/>
+    </net>
+    <net code="158" name="unconnected-(P1-Pad119)">
+      <node ref="P1" pin="119" pinfunction="119" pintype="input"/>
+    </net>
+    <net code="159" name="unconnected-(P1-Pad120)">
+      <node ref="P1" pin="120" pinfunction="120" pintype="input"/>
+    </net>
+    <net code="160" name="unconnected-(P1-Pad121)">
+      <node ref="P1" pin="121" pinfunction="121" pintype="input"/>
+    </net>
+    <net code="161" name="unconnected-(P1-Pad123)">
+      <node ref="P1" pin="123" pinfunction="123" pintype="input+no_connect"/>
+    </net>
+    <net code="162" name="unconnected-(P1-Pad124)">
+      <node ref="P1" pin="124" pinfunction="124" pintype="input+no_connect"/>
+    </net>
+    <net code="163" name="unconnected-(P1-Pad126)">
+      <node ref="P1" pin="126" pinfunction="126" pintype="input+no_connect"/>
+    </net>
+    <net code="164" name="unconnected-(P1-Pad127)">
+      <node ref="P1" pin="127" pinfunction="127" pintype="input+no_connect"/>
+    </net>
+    <net code="165" name="unconnected-(P1-Pad131)">
+      <node ref="P1" pin="131" pinfunction="131" pintype="input+no_connect"/>
+    </net>
+    <net code="166" name="unconnected-(P1-Pad132)">
+      <node ref="P1" pin="132" pinfunction="132" pintype="input+no_connect"/>
+    </net>
+    <net code="167" name="unconnected-(P1-Pad133)">
+      <node ref="P1" pin="133" pinfunction="133" pintype="input+no_connect"/>
+    </net>
+    <net code="168" name="unconnected-(P1-Pad134)">
+      <node ref="P1" pin="134" pinfunction="134" pintype="input+no_connect"/>
+    </net>
+    <net code="169" name="unconnected-(P1-PadA0)">
+      <node ref="P1" pin="A0" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="170" name="unconnected-(P1-PadA1)">
+      <node ref="P1" pin="A1" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="171" name="unconnected-(P1-PadA4)">
+      <node ref="P1" pin="A4" pinfunction="A4" pintype="input"/>
+    </net>
+    <net code="172" name="unconnected-(P1-PadA5)">
+      <node ref="P1" pin="A5" pinfunction="A5" pintype="input"/>
+    </net>
+    <net code="173" name="unconnected-(P1-PadA6)">
+      <node ref="P1" pin="A6" pinfunction="A6" pintype="input"/>
+    </net>
+    <net code="174" name="unconnected-(P1-PadA7)">
+      <node ref="P1" pin="A7" pinfunction="A7" pintype="input"/>
+    </net>
+    <net code="175" name="unconnected-(P1-PadA8)">
+      <node ref="P1" pin="A8" pinfunction="A8" pintype="input"/>
+    </net>
+    <net code="176" name="unconnected-(P1-PadA9)">
+      <node ref="P1" pin="A9" pinfunction="A9" pintype="input"/>
+    </net>
+    <net code="177" name="unconnected-(P1-PadAREF)">
+      <node ref="P1" pin="AREF" pinfunction="AREF" pintype="input"/>
+    </net>
+    <net code="178" name="unconnected-(P1-PadDONE)">
+      <node ref="P1" pin="DONE" pinfunction="DONE" pintype="input+no_connect"/>
+    </net>
+    <net code="179" name="unconnected-(P1-PadGND)">
+      <node ref="P1" pin="GND" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="180" name="unconnected-(P1-PadSUS)">
+      <node ref="P1" pin="SUS" pinfunction="SUS" pintype="input+no_connect"/>
+    </net>
+    <net code="181" name="vJTAG">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
